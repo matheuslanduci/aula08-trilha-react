@@ -12,4 +12,4 @@ Nesta aula aprendemos a realizar um deploy na Netlify com um projeto criado pelo
 
 ## 🚀 Como executar
 
-- Visite 
+- Visite https://cradeploy-matheuslanduci.netlify.app
